@@ -24,7 +24,7 @@ Name the file `.gitattributes` and insert the following line and save it.
 ````
 
 You can add the file directly on GitHub by chosing Add file, Create new file.
-The project is then correctly detected as being a AL project and  you can filter your GitHub repositories by the AL language.
+The project is then correctly detected as being an AL project and you can filter your GitHub repositories by the AL language.
 
 ![Image of Playground](images/SearchAL.png)
 
