@@ -9,7 +9,7 @@ It took a while before the AL language was recognized by GitHub and at first it 
 before it was [renamed](https://github.com/github/linguist/pull/5023/files) to AL.
 
 
-This means that your older projects might be detected as written Perl.
+This means that your older projects might be detected as written in Perl.
 
 ![Image of Playground](images/HelloWorld-Perl.png)
 
@@ -23,7 +23,7 @@ Name the file `.gitattributes` and insert the following line and save it.
 *.al linguist-language=AL
 ````
 
-You can add the file directly on GitHub by chosing add file.
+You can add the file directly on GitHub by chosing Add file, Create new file.
 The project is then correctly detected as being a AL project and  you can filter your GitHub repositories by the AL language.
 
 ![Image of Playground](images/SearchAL.png)
